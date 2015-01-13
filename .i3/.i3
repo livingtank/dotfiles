@@ -1,0 +1,1 @@
+/home/logan/Downloads/dotfiles/setup/../.i3
